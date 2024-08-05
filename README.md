@@ -33,11 +33,6 @@
 
 ---
 
-## 😄 Pronombres
-- **Él/Él**
-
----
-
 ## ⚡ Dato curioso
 Siempre estoy buscando nuevas formas de combinar mi amor por la tecnología con mi pasión por ayudar a los demás. ¡Y nunca digo no a un buen desafío de programación!
 
@@ -47,8 +42,6 @@ Siempre estoy buscando nuevas formas de combinar mi amor por la tecnología con 
 ### 📊 Sistema de Seguimiento de Estudiantes
 Un sistema robusto para monitorear el progreso académico de los estudiantes, desarrollado con **PHP** y **Laravel**. Implementa funcionalidades avanzadas para gestión de datos y reportes.
 
-### 💪 Plataforma de Rehabilitación Física
-Una innovadora plataforma que utiliza **Arduino** y **Bootstrap** para crear un entorno interactivo y eficiente para la rehabilitación de pacientes. Actualmente en uso en centros de fisioterapia.
 
 ---
 
