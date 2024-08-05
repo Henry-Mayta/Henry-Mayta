@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy @Henry-Mayta!
 
-🎓 **Estudiante de Ingeniería de Sistemas | 6to Semestre | UNIFRANZ** 🚀
+🎓 **Estudiante de Ingeniería de Sistemas ** 🚀
 
 💻 **Desarrollador apasionado** con un amor por el **código** y la **innovación tecnológica**. Experto en **PHP, Laravel, Bootstrap, Arduino**, y **bases de datos**.
 
@@ -9,7 +9,6 @@
 ## 👀 Intereses
 - 💡 **Desarrollo de software**
 - 📚 **Proyectos de seguimiento de estudiantes**
-- 🏥 **Plataformas interactivas para la rehabilitación física**
 - 🌐 **Últimas tendencias en tecnología**
 
 ---
@@ -29,7 +28,7 @@
 ---
 
 ## 📫 Cómo contactarme
-- 📧 **Email:** [Tu email aquí]
+- 📧 **Email:** henrybladimirmaytacayllagua@gmail.com
 - 💼 **LinkedIn:** [Tu perfil de LinkedIn aquí]
 
 ---
